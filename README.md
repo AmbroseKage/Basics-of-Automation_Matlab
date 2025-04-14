@@ -1,10 +1,5 @@
 # Basics-of-Automation - Matlab – Laboratory Reports
 
-**Author:** Jakub Kłos  
-**Program:** Automation and Robotics  
-**Academic Year:** 2024/2025  
-**Institution:** AGH University of Science and Technology, Kraków  
-
 ---
 
 ## Overview
